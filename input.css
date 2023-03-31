@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.back-image{
+    background-image: url();
+    postion:absolute
+}
